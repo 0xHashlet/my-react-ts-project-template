@@ -1,3 +1,4 @@
+git add --renormalize .
 npm run format
 npm run lint
 git add .
